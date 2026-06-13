@@ -44,4 +44,8 @@ Dataset (Multilingual) -> Preprocessing -> MuRIL / TF-IDF / CLIP -> Model Traini
 ## Project Report
 https://drive.google.com/file/d/108Vf8KF7OhCPw7ZGH1lg3pHvGbnCdbI8/view?usp=drive_link
 
+## Results & Demo
+
+### MuRiL Confusion Matrix
+![MuRiL Confusion Matrix](images/MuRiL Confusion Matrix.png)
 
