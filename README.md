@@ -44,8 +44,20 @@ Dataset (Multilingual) -> Preprocessing -> MuRIL / TF-IDF / CLIP -> Model Traini
 ## Project Report
 https://drive.google.com/file/d/108Vf8KF7OhCPw7ZGH1lg3pHvGbnCdbI8/view?usp=drive_link
 
-## Results & Demo
+## Results
+
+### CLIP Confusion Matrix
+![CLIP Confusion Matrix](images/CLIP%20Confusion%20Matrix.png)
+
+### CLIP Graph
+![CLIP Graph](images/CLIP%20Graph.png)
+
+### English Dataset Confusion Matrix
+![English Dataset](images/Confusion%20Matrix%20for%20English%20Dataset.png)
 
 ### MuRiL Confusion Matrix
-![MuRiL Confusion Matrix](images/MuRiL Confusion Matrix.png)
+![MuRiL Confusion](images/MuRiL%20Confusion%20Matrix.png)
+
+### MuRiL Graph
+![MuRiL Graph](images/MuRiL%20Graph.png)
 
