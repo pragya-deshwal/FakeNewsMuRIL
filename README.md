@@ -9,17 +9,7 @@
 - End-to-end ML pipeline (training → evaluation → inference)
 
 ## Architecture
-Dataset (Multilingual)
-        ↓
-Preprocessing
-        ↓
-MuRIL / TF-IDF / CLIP
-        ↓
-Model Training
-        ↓
-Evaluation
-        ↓
-Prediction (Real / Fake)
+Dataset (Multilingual) -> Preprocessing -> MuRIL / TF-IDF / CLIP -> Model Training -> Evaluation -> Prediction (Real / Fake)
 
 ## Results
 | Model         | Accuracy |
@@ -36,10 +26,10 @@ Prediction (Real / Fake)
 - Pandas
 
 ## How to Run
-git clone https://github.com/pragya-deshwal/FakeNewsMuRIL.git
-cd FakeNewsMuRIL
-pip install -r requirements.txt
-python app.py
+- git clone https://github.com/pragya-deshwal/FakeNewsMuRIL.git
+- cd FakeNewsMuRIL
+- pip install -r requirements.txt
+- python app.py
 
 ## Key Learnings
 - Transformer models outperform traditional ML for multilingual tasks
